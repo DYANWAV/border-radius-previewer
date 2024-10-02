@@ -1,0 +1,17 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 1rem;
+}
+
+.box {
+	@apply mx-auto my-[2rem] size-40 bg-indigo-500 sm:size-[220px];
+}
+
+.boxShadow {
+	@apply shadow-lg shadow-black/40;
+}
+
+.borderIndigo {
+	@apply border-2 border-sky-50 bg-transparent text-sky-50 hover:border-indigo-400 hover:text-indigo-400 focus:border-indigo-400;
+}
