@@ -1,4 +1,4 @@
-![Border Radius Previewer Aplication preview](/border-radius-previewer-mockup.png)
+![Border Radius Previewer Mockup](https://github.com/user-attachments/assets/8f859dc1-63f4-4a7b-bb81-7bc8260742a3)
 
 # Border Radius Previewer
 
