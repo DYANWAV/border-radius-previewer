@@ -22,7 +22,7 @@ export const CssContainer: React.FC<Props> = ({ borderRadius }) => {
 					readOnly
 				/>
 				<button
-					className="borderIndigo"
+					className="borderIndigo min-w-[100px]"
 					onClick={copy}
 				>
 					{isCopied ? "copied" : "copy"}
