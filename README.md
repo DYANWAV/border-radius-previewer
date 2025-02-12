@@ -1,5 +1,5 @@
 ![Border Radius Previewer Aplication preview](/border-radius-previewer-mockup.png)
-![Border Radius Previewer Aplication preview](/border-radius-previewer-mockup-mobile.png)
+![Border Radius Previewer Aplication mobile preview](/border-radius-previewer-mockup-mobile.png)
 
 # Border Radius Previewer
 
