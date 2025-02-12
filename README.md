@@ -1,5 +1,10 @@
-![Border Radius Previewer Aplication preview](/border-radius-previewer-mockup.png)
-![Border Radius Previewer Aplication mobile preview](/border-radius-previewer-mockup-mobile.png)
+<p align="center">
+  <img src="public/border-radius-previewer-mockup.png" alt="Border Radius Previewer Aplication preview">
+</p>
+
+<p align="center">
+  <img src="public/border-radius-previewer-mockup-mobile.png" alt="Border Radius Previewer Aplication mobile preview">
+</p>
 
 # Border Radius Previewer
 
